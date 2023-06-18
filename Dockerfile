@@ -1,0 +1,2 @@
+RUN nginx
+EXPOSE 8081
