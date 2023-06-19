@@ -1,2 +1,2 @@
-RUN nginx
+RUN nginx:latest
 EXPOSE 8081
